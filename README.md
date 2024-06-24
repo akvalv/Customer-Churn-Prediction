@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer Churn Prediction
 Predicting Customer Churn using Data Mining and Machine Learning techniques - Logistic Regression, Decision Trees and Random Forests
 
 The Main purpose of this project is to analyze and understand the factors that influence Customer Churn and develop strategies to retain customers. 
